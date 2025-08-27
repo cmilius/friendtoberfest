@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<div class="card">
+    <div class="card-image">
+        <img src="{{ include.banner | relative_url }}" alt="{{ include.name | escape }}" />
+    </div>
+    <div class="card-content">
+        <h2>{{ include.name }}</h2>
+        <p><strong>Location:</strong> {{ include.location }}</p>
+        <p><strong>Date:</strong> {{ include.date | date: "%B %d, %Y" }}</p>
+        <p>{{ include.excerpt }}</p>
+        <p><a href="{{ include.url | relative_url }}">Read more...</a></p>
+    </div>
+</div>
