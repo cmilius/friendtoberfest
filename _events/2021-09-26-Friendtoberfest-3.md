@@ -3,7 +3,7 @@ layout: event
 title: "Friendtoberfest 3"
 categories: events
 location: Minneapolis, Minnesota
-banner: "assets/images/events/oktoberfest.webp"
+banner: "assets/images/logos/Friendtoberfest_logo_2021_3rd.webp"
 guests:
 - Hieu
 - Charlie
