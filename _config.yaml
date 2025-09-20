@@ -66,6 +66,7 @@ minima:
 collections:
   events: # key
     output: true
+    permalink: /events/:name/
 
 # By default, Jekyll does not publish posts or collection items with a date in the future. This flag explicitly allows future-dated items.
 future: true
