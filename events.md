@@ -3,8 +3,6 @@ layout: page
 title: Events
 ---
 
-Welcome to our event page.
-
 {% for event in site.events reversed %}
 
 {% include event-card.html
