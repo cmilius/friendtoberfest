@@ -39,8 +39,6 @@ Pretzel eating contest & steinholding competition
 Last call  
 *Note:* Due to space rental limitations, we must be out by 10:00pm
 
----
-
 ### Saturday | Round 2
 
 **What to expect:**  
