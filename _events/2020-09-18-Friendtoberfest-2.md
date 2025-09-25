@@ -3,7 +3,7 @@ layout: event
 title: "2nd Annual Friendtoberfest"
 categories: events
 location: Minneapolis, Minnesota
-banner: "assets/images/events/oktoberfest.webp"
+banner: "assets/images/logos/Friendtoberfest_logo_2020_2nd.webp"
 guests:
 - Hieu
 - Charlie
